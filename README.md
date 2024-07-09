@@ -22,40 +22,40 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://shaurya0810.com">Shaurya Agrawal</a></b>
+                <b><b><h1> Shaurya Agrawal</h1></b></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
-    <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+<!--     <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a> -->
+<!--     <br> -->
+    「 I am a full stack web application developer and a programmer 」
     <br>
     <br>
   </samp>
 </p>
 
 <p align="center">
- <a href="https://shaurya0810.com" target="blank">
+<!--  <a href="https://shaurya0810.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="shaurya0810" />
- </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ </a> -->
+ <a href="https://www.linkedin.com/in/sa-9062a6221/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shaurya0810"/>
  </a>
  <!-- <a href="https://dev.to/shaurya0810" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="shaurya0810" />
  </a> -->
- <a href="https://twitter.com/_shaurya0810" target="_blank">
+ <a href="https://x.com/shaurya08102003" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/_shaurya0810" target="_blank">
+ <a href="https://www.instagram.com/shaurya08102/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="shaurya0810" />
  </a> 
- <a href="https://facebook.com/shaurya0810.dev" target="_blank">
+<!--  <a href="https://facebook.com/shaurya0810.dev" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="shaurya0810"  />
-  </a> 
+  </a>  -->
 </p>
 <br />
 
@@ -67,16 +67,16 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: shaurya0810.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/shaurya0810/shaurya0810/issues)
-
+ 📧 &emsp; Reach me anytime: shaurya.bharatpur123@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/shaurya0810/shaurya0810/issues)<br/><br/>
+ 📝 &emsp; Know about my professional background [here](https://drive.google.com/file/d/1vfexmRoo6nFEtxl53k3qOW2eb384j3MW/view?usp=sharing)
 </p>
 
 <br/>
 <br/>
-<br/>
 
-## Use To Code
+
+## Tech Stack:
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
